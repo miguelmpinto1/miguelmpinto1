@@ -9,5 +9,5 @@
 
 #### Reach out
 
-* [**LinkedIn**](https://linkedin.com/in/miguel-moura-pinto)
-* [**TryHackMe**](https://tryhackme.com/p/miguelmpinto)
+<a href="https://linkedin.com/in/miguel-moura-pinto"><img src="images/linkedin.svg" width="40" alt="LinkedIn"></a> &nbsp;&nbsp;
+<a href="https://tryhackme.com/p/miguelmpinto"><img src="images/tryhackme.svg" width="40" alt="TryHackMe"></a>
